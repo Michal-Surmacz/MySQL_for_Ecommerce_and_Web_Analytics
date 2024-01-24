@@ -182,3 +182,5 @@ AND order_items.is_primary_item = 0
 GROUP BY 1;
 ```
 
+Based on MySQL for Ecommerce & Web Analytics coure, created by: Maven Analytics, John Pauler
+

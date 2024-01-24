@@ -1,6 +1,10 @@
 # MySQL_for_Ecommerce_and_Web_Analytics
 
-The main goal of the project was to reflect real, real working conditions at position Ecommerce and Web Analytics.
+The main goal of the project was:
+1. Write advanced SQL queries to explore and analyze databases with MySQL Workbench,
+2. Learn how to use subqueries and temporary tables to handle complex multi-step data problems,
+3. Solve practical hands-on assignments and real-world eCommerce use cases,
+4. Analyze data across multiple tables with powerful MySQL JOIN statements.
 
 # Objective „MySQL_for_Ecommerce_and_Web_Analytics”:
 1. Discuss eCommerce databases, download Community Server and Workbench, and create the project database,
@@ -12,7 +16,7 @@ The main goal of the project was to reflect real, real working conditions at pos
 
 
 # My objectives in the final project included:
-1. Tell the story of your company's growth, using trended performance data,
+1. Tell the story of company's growth, using trended performance data,
 2. Use the database to explain how you’ve been able to produce growth, by diving in to channels and website optimizations,
 3. Flex my analytical muscles so the VCs know your company is a serious data-driven shop
 

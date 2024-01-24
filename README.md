@@ -17,7 +17,7 @@ The main goal of the project was to reflect real, real working conditions at pos
 3. Flex my analytical muscles so the VCs know your company is a serious data-driven shop
 
 # Solution:
-
+'''
 USE mavenfuzzyfactory;
 
 /*
@@ -180,4 +180,5 @@ ON order_items.order_id = primary_products.order_id
 AND order_items.is_primary_item = 0
 ) AS primary_w_cross_sell
 GROUP BY 1;
+'''
 
